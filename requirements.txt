@@ -6,3 +6,4 @@ scipy
 sklearn
 ipywidgets
 torch
+tensorflow
