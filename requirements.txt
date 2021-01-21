@@ -6,5 +6,5 @@ scipy
 sklearn
 ipywidgets
 torch
+torchvision
 tensorflow
-PIL
